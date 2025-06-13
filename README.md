@@ -1,3 +1,4 @@
+[![CI](https://github.com/pele11/skills-test-with-actions/actions/workflows/ci.yml/badge.svg)](https://github.com/pele11/skills-test-with-actions/actions/workflows/ci.yml)
 <header>
 
 <!--
